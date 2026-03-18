@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tumiegh — Software Engineer & Blockchain Enthusiast
+# Software Engineer & Blockchain Enthusiast
 
 I build full‑stack and Web3 systems that are secure, reliable, and a little bit bold.  
 Focused on smart contracts, backend architecture, and clean UX.
